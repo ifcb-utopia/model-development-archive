@@ -1,0 +1,7 @@
+*csv
+data
+reference_data
+data.zip
+*.DS_Store
+*.pyc
+predict_raw
